@@ -7,4 +7,4 @@ IDL
 Python (2.7 is best)  
 Python packages: SciPy, NumPy, Matplotlib, possibly others
 
-N.B. This is a collection of random scripts saved here only for posterities sake.
+N.B. This is a collection of random scripts saved here only for posterity's sake.
